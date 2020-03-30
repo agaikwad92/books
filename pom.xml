@@ -35,6 +35,7 @@
                     <groupId>org.junit.platform</groupId>
                     <artifactId>junit-platform-surefire-provider</artifactId>
                     <version>1.0.0</version>
+                    <scope>test</scope>
                 </dependency>
             </dependencies>
       </plugin>
